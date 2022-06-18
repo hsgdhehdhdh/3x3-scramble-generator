@@ -1,0 +1,12 @@
+$name : 3x3 scramble generator
+$author : ???
+$description : Generates scrambles for 3x3 Rubik's cube
+$picture : icon.png
+$amount : 1
+$button : Scramble
+
+$mv
+[R|R'|R2|L|L'|L2|B|B'|B2|F|F'|F2|U|U'|U2|D|D'|D2]
+
+$phrase
+Scramble: [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv] [mv]
