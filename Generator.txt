@@ -1,7 +1,7 @@
 $name : 3x3 scramble generator
 $author : That1Coder
 $description : Generates scrambles for 3x3 Rubik's cube
-$picture : https://raw.githubusercontent.com/hsgdhehdhdh/3x3-scramble-generator/main/Icon.png
+$picture : https://github.com/hsgdhehdhdh/3x3-scramble-generator/raw/main/Icon.png
 $amount : 1
 $button : Scramble
 
